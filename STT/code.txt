@@ -1,0 +1,3 @@
+deepspeech --model model/deepspeech-0.7.0-models.pbmm --scorer model/deepspeech-0.7.0-models.scorer --lm model/lm.binary --trie model/trie --audio dataset/example.wav --beam_width 500 --lm_alpha 0.75 --lm_beta 1.85 --extended --json
+
+deepspeech --model model/deepspeech-0.7.0-models.pbmm --scorer model/deepspeech-0.7.0-models.scorer --audio dataset/audio/3.wav --json

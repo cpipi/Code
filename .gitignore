@@ -1,0 +1,11 @@
+KE/__pycache__
+KE/graph
+STT/__pycache__
+STT/dataset
+STT/Deepspeech
+STT/Deepspeech.egg-info
+STT/model
+TS/models
+TS/PreSummdev
+TS/stanford-corenlp-4.0.0
+TS/temp
